@@ -1,7 +1,8 @@
 python-dotenv
 pandas
 numpy
-pymongo
+pymongo     ##library to connect to mongodb
 certifi
+pymongo[srv]==3.6
 
 ##-e .
