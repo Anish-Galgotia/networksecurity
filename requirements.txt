@@ -4,5 +4,6 @@ numpy
 pymongo     ##library to connect to mongodb
 certifi
 pymongo[srv]==3.6
+scikit-learn
 
 ##-e .
