@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anish/NetworkSecurity/mlruns/0/2f4254a4e7514e0aaf3e4e516f440b93/artifacts
+end_time: 1737135170055
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f4254a4e7514e0aaf3e4e516f440b93
+run_name: nebulous-smelt-727
+run_uuid: 2f4254a4e7514e0aaf3e4e516f440b93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737135165438
+status: 3
+tags: []
+user_id: anish
