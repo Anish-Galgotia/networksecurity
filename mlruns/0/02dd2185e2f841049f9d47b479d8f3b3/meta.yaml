@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anish/NetworkSecurity/mlruns/0/02dd2185e2f841049f9d47b479d8f3b3/artifacts
+end_time: 1737094415097
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02dd2185e2f841049f9d47b479d8f3b3
+run_name: rebellious-lynx-254
+run_uuid: 02dd2185e2f841049f9d47b479d8f3b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737094408974
+status: 3
+tags: []
+user_id: anish
