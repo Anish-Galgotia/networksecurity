@@ -83,11 +83,11 @@ jobs:
       
       - name: Pull latest images
         run: |
-         docker pull 222634381359.dkr.ecr.us-east-1.amazonaws.com/networksecurity01:latest
+         docker pull ${{secrets.AWS_ECR_LOGIN_URI}}/${{ secrets.ECR_REPOSITORY_NAME }}:latest
          
       #- name: Stop and remove  container if running
        # run: |
-        # docker ps -q --filter "name=networksecurity01" | grep -q . && docker stop networksecurity01 && docker rm -fv networksecurity01
+        # docker ps -q --filter "name=mltest" | grep -q . && docker stop mltest && docker rm -fv mltest
        
       - name: Run Docker Image to serve users
         run: |
